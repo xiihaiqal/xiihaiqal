@@ -28,6 +28,6 @@
 
 <img align="left" alt="xiihaiqal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xiihaiqal&show_icons=true&hide_border=true" />
 
-[website]: https://https://github.com/xiihaiqal
+[website]: https://github.com/xiihaiqal
 [telegram]: https://t.me/xiihaiqal
 [github]: https://github.com/xiihaiqal
