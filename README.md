@@ -26,8 +26,8 @@
 
 ---
 
-<img align="left" alt="shafiqsaaidin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shafiqsaaidin&show_icons=true&hide_border=true" />
+<img align="left" alt="xiihaiqal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xiihaiqal&show_icons=true&hide_border=true" />
 
-[website]: https://https://github.com/shafiqsaaidin
+[website]: https://https://github.com/xiihaiqal
 [telegram]: https://t.me/xiihaiqal
-[github]: https://github.com/shafiqsaaidin
+[github]: https://github.com/xiihaiqal
