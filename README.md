@@ -2,8 +2,6 @@
 
 ## I'm a Developer and Network Admin
 - I'm currently working on a [AutoScriptVPS][website]
-- I'm currently learning vuejs for my frontend framework
-- I'm currently learning nodejs and golang for my future project
 
 ### Connect with me:
 
